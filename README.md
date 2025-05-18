@@ -1,7 +1,7 @@
 # Инструкция для запуска
 Клонируете репозиторий
 ```
-git clone https://github.com/yankaiova/album.git
+git clone https://github.com/yankaiova/AppPr.git
 ```
 Установить зависимости и выполнить запуск
 ```
