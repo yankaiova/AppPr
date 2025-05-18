@@ -1,0 +1,9 @@
+.dashboard {
+  max-height: 65vh;
+  max-width: 95vw;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
