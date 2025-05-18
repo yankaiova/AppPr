@@ -4,9 +4,10 @@
 git clone https://github.com/yankaiova/album.git
 ```
 Установить зависимости и выполнить запуск
+```
 npm install
 npm run dev
-
+```
 # Описание
 - Выбор страны
 - Календарь для выбора даты
