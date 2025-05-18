@@ -1,0 +1,6 @@
+.container {
+  max-width: 95vw;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
